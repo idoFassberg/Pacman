@@ -1,0 +1,7 @@
+game color	ghost level	(depends on ghost number = n) ghost 1 dir, ... , ghost n dir	fruit row	fruit col	fruit score	pacman dir	pacman dir	pacman dir	(depends on ghost number = n) ghost 1 dir, ... , ghost n dir	pacman dir	pacman dir
+pacman dir	pacman dir	(depends on ghost number = n) ghost 1 dir, ... , ghost n dir	pacman dir	pacman dir
+pacman dir	pacman dir	(depends on ghost number = n) ghost 1 dir, ... , ghost n dir	pacman dir	pacman dir
+pacman dir	pacman dir	(depends on ghost number = n) ghost 1 dir, ... , ghost n dir	pacman dir	pacman dir
+....
+
+# every time a fruit appeares:	fruit row	fruit col	fruit score
